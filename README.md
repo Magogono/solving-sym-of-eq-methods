@@ -1,0 +1,1 @@
+Finished on 28.04.2020. Python code that implements solving systems of linear equations using LU factorization (a direct method) and indirect methods: Jacobi and Gauss-Siedel.
